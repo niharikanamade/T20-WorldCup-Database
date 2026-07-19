@@ -1,0 +1,300 @@
+playerID,teamID,player_name,batting_style,bowling_style,role,is_active
+301,1,"Rohit Sharma","Right-hand Bat","Right-arm Off Break",Batsman,1
+302,1,"Yashasvi Jaiswal","Left-hand Bat","Right-arm Leg Break",Batsman,1
+303,1,"Virat Kohli","Right-hand Bat","Right-arm Medium",Batsman,1
+304,1,"Suryakumar Yadav","Right-hand Bat","Right-arm Medium",Batsman,1
+305,1,"Rishabh Pant","Left-hand Bat",None,Wicketkeeper,1
+306,1,"Sanju Samson","Right-hand Bat",None,Wicketkeeper,1
+307,1,"Hardik Pandya","Right-hand Bat","Right-arm Fast-Medium",All-Rounder,1
+308,1,"Shivam Dube","Left-hand Bat","Right-arm Medium",All-Rounder,1
+309,1,"Ravindra Jadeja","Left-hand Bat","Slow Left-arm Orthodox",All-Rounder,1
+310,1,"Axar Patel","Left-hand Bat","Slow Left-arm Orthodox",All-Rounder,1
+311,1,"Kuldeep Yadav","Left-hand Bat","Left-arm Chinaman",Bowler,1
+312,1,"Yuzvendra Chahal","Right-hand Bat","Right-arm Leg Break",Bowler,1
+313,1,"Jasprit Bumrah","Right-hand Bat","Right-arm Fast",Bowler,1
+314,1,"Arshdeep Singh","Left-hand Bat","Left-arm Fast-Medium",Bowler,1
+315,1,"Mohammed Siraj","Right-hand Bat","Right-arm Fast",Bowler,1
+31,2,"Mitchell Marsh","Right-hand Bat","Right-arm Medium",All-Rounder,1
+32,2,"David Warner","Left-hand Bat","Right-arm Leg Break",Batsman,1
+33,2,"Travis Head","Left-hand Bat","Right-arm Off Break",All-Rounder,1
+34,2,"Pat Cummins","Right-hand Bat","Right-arm Fast",Bowler,1
+35,2,"Mitchell Starc","Left-hand Bat","Left-arm Fast",Bowler,1
+36,2,"Josh Hazlewood","Left-hand Bat","Right-arm Fast-Medium",Bowler,1
+37,2,"Adam Zampa","Right-hand Bat","Right-arm Leg Break",Bowler,1
+38,2,"Glenn Maxwell","Right-hand Bat","Right-arm Off Break",All-Rounder,1
+39,2,"Marcus Stoinis","Right-hand Bat","Right-arm Medium Fast",All-Rounder,1
+40,2,"Tim David","Right-hand Bat","Right-arm Off Break",Batsman,1
+41,2,"Matthew Wade","Left-hand Bat",None,Wicketkeeper,1
+42,2,"Ashton Agar","Left-hand Bat","Slow Left-arm Orthodox",All-Rounder,1
+43,2,"Nathan Ellis","Right-hand Bat","Right-arm Fast-Medium",Bowler,1
+44,2,"Josh Inglis","Right-hand Bat",None,Wicketkeeper,1
+45,2,"Cameron Green","Right-hand Bat","Right-arm Fast-Medium",All-Rounder,1
+46,3,"Jos Buttler","Right-hand Bat",None,Wicketkeeper,1
+47,3,"Moeen Ali","Left-hand Bat","Right-arm Off Break",All-Rounder,1
+48,3,"Jonny Bairstow","Right-hand Bat",None,Wicketkeeper,1
+49,3,"Harry Brook","Right-hand Bat","Right-arm Medium",Batsman,1
+50,3,"Sam Curran","Left-hand Bat","Left-arm Medium Fast",All-Rounder,1
+51,3,"Ben Duckett","Left-hand Bat",None,Batsman,1
+52,3,"Jofra Archer","Right-hand Bat","Right-arm Fast",Bowler,1
+53,3,"Will Jacks","Right-hand Bat","Right-arm Off Break",All-Rounder,1
+54,3,"Liam Livingstone","Right-hand Bat","Right-arm Leg Break",All-Rounder,1
+55,3,"Adil Rashid","Right-hand Bat","Right-arm Leg Break",Bowler,1
+56,3,"Phil Salt","Right-hand Bat",None,Wicketkeeper,1
+57,3,"Reece Topley","Left-hand Bat","Left-arm Fast-Medium",Bowler,1
+58,3,"Chris Jordan","Right-hand Bat","Right-arm Fast-Medium",Bowler,1
+59,3,"Mark Wood","Right-hand Bat","Right-arm Fast",Bowler,1
+60,3,"Tom Hartley","Left-hand Bat","Slow Left-arm Orthodox",Bowler,1
+61,4,"Babar Azam","Right-hand Bat","Right-arm Off Break",Batsman,1
+62,4,"Mohammad Rizwan","Right-hand Bat",None,Wicketkeeper,1
+63,4,"Saim Ayub","Left-hand Bat","Right-arm Off Break",Batsman,1
+64,4,"Fakhar Zaman","Left-hand Bat","Slow Left-arm Orthodox",Batsman,1
+65,4,"Usman Khan","Right-hand Bat",None,Wicketkeeper,1
+66,4,"Iftikhar Ahmed","Right-hand Bat","Right-arm Off Break",All-Rounder,1
+67,4,"Shadab Khan","Right-hand Bat","Right-arm Leg Break",All-Rounder,1
+68,4,"Azam Khan","Right-hand Bat",None,Wicketkeeper,1
+69,4,"Imad Wasim","Left-hand Bat","Slow Left-arm Orthodox",All-Rounder,1
+70,4,"Shaheen Shah Afridi","Left-hand Bat","Left-arm Fast",Bowler,1
+71,4,"Haris Rauf","Right-hand Bat","Right-arm Fast",Bowler,1
+72,4,"Mohammad Amir","Left-hand Bat","Left-arm Fast",Bowler,1
+73,4,"Naseem Shah","Right-hand Bat","Right-arm Fast",Bowler,1
+74,4,"Abrar Ahmed","Right-hand Bat","Right-arm Leg Break",Bowler,1
+75,4,"Mohammad Abbas Afridi","Right-hand Bat","Right-arm Medium Fast",Bowler,1
+76,5,"Aiden Markram","Right-hand Bat","Right-arm Off Break",All-Rounder,1
+77,5,"Ottneil Baartman","Right-hand Bat","Right-arm Fast-Medium",Bowler,1
+78,5,"Gerald Coetzee","Right-hand Bat","Right-arm Fast",Bowler,1
+79,5,"Quinton de Kock","Left-hand Bat",None,Wicketkeeper,1
+80,5,"Bjorn Fortuin","Left-hand Bat","Slow Left-arm Orthodox",All-Rounder,1
+81,5,"Reeza Hendricks","Right-hand Bat","Right-arm Off Break",Batsman,1
+82,5,"Marco Jansen","Left-hand Bat","Left-arm Fast-Medium",All-Rounder,1
+83,5,"Heinrich Klaasen","Right-hand Bat",None,Wicketkeeper,1
+84,5,"Keshav Maharaj","Left-hand Bat","Slow Left-arm Orthodox",Bowler,1
+85,5,"David Miller","Left-hand Bat","Right-arm Off Break",Batsman,1
+86,5,"Anrich Nortje","Right-hand Bat","Right-arm Fast",Bowler,1
+87,5,"Kagiso Rabada","Left-hand Bat","Right-arm Fast",Bowler,1
+88,5,"Ryan Rickelton","Left-hand Bat",None,Wicketkeeper,1
+89,5,"Tabraiz Shamsi","Right-hand Bat","Left-arm Chinaman",Bowler,1
+90,5,"Tristan Stubbs","Right-hand Bat","Right-arm Off Break",Batsman,1
+91,6,"Kane Williamson","Right-hand Bat","Right-arm Off Break",Batsman,1
+92,6,"Finn Allen","Right-hand Bat","Right-arm Off Break",Batsman,1
+93,6,"Devon Conway","Left-hand Bat",None,Wicketkeeper,1
+94,6,"Daryl Mitchell","Right-hand Bat","Right-arm Medium",All-Rounder,1
+95,6,"Glenn Phillips","Right-hand Bat","Right-arm Off Break",All-Rounder,1
+96,6,"Mark Chapman","Left-hand Bat","Left-arm Orthodox",All-Rounder,1
+97,6,"James Neesham","Right-hand Bat","Right-arm Medium Fast",All-Rounder,1
+98,6,"Mitchell Santner","Left-hand Bat","Slow Left-arm Orthodox",All-Rounder,1
+99,6,"Michael Bracewell","Right-hand Bat","Right-arm Off Break",All-Rounder,1
+100,6,"Rachin Ravindra","Left-hand Bat","Slow Left-arm Orthodox",All-Rounder,1
+101,6,"Trent Boult","Right-hand Bat","Left-arm Fast-Medium",Bowler,1
+102,6,"Tim Southee","Right-hand Bat","Right-arm Fast-Medium",Bowler,1
+103,6,"Lockie Ferguson","Right-hand Bat","Right-arm Fast",Bowler,1
+104,6,"Matt Henry","Right-hand Bat","Right-arm Fast-Medium",Bowler,1
+105,6,"Ish Sodhi","Right-hand Bat","Right-arm Leg Break",Bowler,1
+106,7,"Rovman Powell","Right-hand Bat","Right-arm Medium Fast",All-Rounder,1
+107,7,"Alzarri Joseph","Right-hand Bat","Right-arm Fast",Bowler,1
+108,7,"Johnson Charles","Right-hand Bat",None,Wicketkeeper,1
+109,7,"Roston Chase","Left-hand Bat","Right-arm Off Break",All-Rounder,1
+110,7,"Shimron Hetmyer","Left-hand Bat",None,Batsman,1
+111,7,"Shai Hope","Right-hand Bat",None,Wicketkeeper,1
+112,7,"Akeal Hosein","Left-hand Bat","Slow Left-arm Orthodox",All-Rounder,1
+113,7,"Shamar Joseph","Right-hand Bat","Right-arm Fast",Bowler,1
+114,7,"Brandon King","Right-hand Bat","Right-arm Off Break",Batsman,1
+115,7,"Gudakesh Motie","Left-hand Bat","Slow Left-arm Orthodox",Bowler,1
+116,7,"Nicholas Pooran","Left-hand Bat",None,Wicketkeeper,1
+117,7,"Andre Russell","Right-hand Bat","Right-arm Fast-Medium",All-Rounder,1
+118,7,"Sherfane Rutherford","Left-hand Bat","Right-arm Medium",All-Rounder,1
+119,7,"Romario Shepherd","Right-hand Bat","Right-arm Medium Fast",All-Rounder,1
+120,7,"Obed McCoy","Left-hand Bat","Left-arm Fast-Medium",Bowler,1
+121,8,"Rashid Khan","Right-hand Bat","Right-arm Leg Break",All-Rounder,1
+122,8,"Rahmanullah Gurbaz","Right-hand Bat",None,Wicketkeeper,1
+123,8,"Ibrahim Zadran","Right-hand Bat","Right-arm Leg Break",Batsman,1
+124,8,"Mohammad Nabi","Right-hand Bat","Right-arm Off Break",All-Rounder,1
+125,8,"Najibullah Zadran","Left-hand Bat","Right-arm Off Break",Batsman,1
+126,8,"Azmatullah Omarzai","Right-hand Bat","Right-arm Medium Fast",All-Rounder,1
+127,8,"Gulbadin Naib","Right-hand Bat","Right-arm Medium Fast",All-Rounder,1
+128,8,"Mohammad Ishaq","Right-hand Bat",None,Wicketkeeper,1
+129,8,"Noor Ahmad","Right-hand Bat","Left-arm Chinaman",Bowler,1
+130,8,"Nangeyalia Kharote","Left-hand Bat","Slow Left-arm Orthodox",All-Rounder,1
+131,8,"Mujeeb Ur Rahman","Right-hand Bat","Right-arm Off Break",Bowler,1
+132,8,"Fazalhaq Farooqi","Left-hand Bat","Left-arm Fast-Medium",Bowler,1
+133,8,Naveen-ul-Haq,"Right-hand Bat","Right-arm Medium Fast",Bowler,1
+134,8,"Fareed Ahmad Malik","Left-hand Bat","Left-arm Medium Fast",Bowler,1
+135,8,"Karim Janat","Right-hand Bat","Right-arm Medium Fast",All-Rounder,1
+316,9,"Najmul Hossain Shanto","Left-hand Bat","Right-arm Off Break",Batsman,1
+317,9,"Taskin Ahmed","Left-hand Bat","Right-arm Fast",Bowler,1
+318,9,"Litton Das","Right-hand Bat",None,Wicketkeeper,1
+319,9,"Soumya Sarkar","Left-hand Bat","Right-arm Medium Fast",All-Rounder,1
+320,9,"Towhid Hridoy","Right-hand Bat","Right-arm Off Break",Batsman,1
+321,9,"Shakib Al Hasan","Left-hand Bat","Slow Left-arm Orthodox",All-Rounder,1
+322,9,Mahmudullah,"Right-hand Bat","Right-arm Off Break",All-Rounder,1
+323,9,"Jaker Ali","Right-hand Bat",None,Wicketkeeper,1
+324,9,"Tanzid Hasan","Left-hand Bat","Right-arm Off Break",Batsman,1
+325,9,"Mahedi Hasan","Right-hand Bat","Right-arm Off Break",All-Rounder,1
+326,9,"Rishad Hossain","Right-hand Bat","Right-arm Leg Break",Bowler,1
+327,9,"Mustafizur Rahman","Left-hand Bat","Left-arm Fast-Medium",Bowler,1
+328,9,"Shoriful Islam","Left-hand Bat","Left-arm Medium Fast",Bowler,1
+329,9,"Tanzim Hasan Sakib","Right-hand Bat","Right-arm Medium Fast",Bowler,1
+330,9,"Tanvir Islam","Left-hand Bat","Slow Left-arm Orthodox",Bowler,1
+136,10,"Wanindu Hasaranga","Right-hand Bat","Right-arm Leg Break",All-Rounder,1
+137,10,"Pathum Nissanka","Right-hand Bat","Right-arm Off Break",Batsman,1
+138,10,"Kusal Mendis","Right-hand Bat",None,Wicketkeeper,1
+139,10,"Kamindu Mendis","Left-hand Bat","Slow Left-arm Orthodox",All-Rounder,1
+140,10,"Charith Asalanka","Left-hand Bat","Right-arm Off Break",All-Rounder,1
+141,10,"Sadeera Samarawickrama","Right-hand Bat",None,Wicketkeeper,1
+142,10,"Angelo Mathews","Right-hand Bat","Right-arm Medium Fast",All-Rounder,1
+143,10,"Dasun Shanaka","Right-hand Bat","Right-arm Medium Fast",All-Rounder,1
+144,10,"Dhananjaya de Silva","Right-hand Bat","Right-arm Off Break",All-Rounder,1
+145,10,"Maheesh Theekshana","Right-hand Bat","Right-arm Off Break",Bowler,1
+146,10,"Dunith Wellalage","Left-hand Bat","Slow Left-arm Orthodox",All-Rounder,1
+147,10,"Nuwan Thushara","Right-hand Bat","Right-arm Fast-Medium",Bowler,1
+148,10,"Matheesha Pathirana","Right-hand Bat","Right-arm Fast",Bowler,1
+149,10,"Dilshan Madushanka","Left-hand Bat","Left-arm Fast-Medium",Bowler,1
+150,10,"Dushmantha Chameera","Right-hand Bat","Right-arm Fast",Bowler,1
+151,11,"Paul Stirling","Right-hand Bat","Right-arm Off Break",Batsman,1
+152,11,"Andrew Balbirnie","Right-hand Bat","Right-arm Medium",Batsman,1
+153,11,"Lorcan Tucker","Right-hand Bat",None,Wicketkeeper,1
+154,11,"Harry Tector","Right-hand Bat","Right-arm Off Break",Batsman,1
+155,11,"Curtis Campher","Right-hand Bat","Right-arm Medium Fast",All-Rounder,1
+156,11,"George Dockrell","Left-hand Bat","Slow Left-arm Orthodox",All-Rounder,1
+157,11,"Gareth Delany","Right-hand Bat","Right-arm Leg Break",All-Rounder,1
+158,11,"Mark Adair","Right-hand Bat","Right-arm Fast-Medium",All-Rounder,1
+159,11,"Barry McCarthy","Right-hand Bat","Right-arm Medium Fast",Bowler,1
+160,11,"Craig Young","Right-hand Bat","Right-arm Medium Fast",Bowler,1
+161,11,"Joshua Little","Right-hand Bat","Left-arm Fast-Medium",Bowler,1
+162,11,"Ben White","Right-hand Bat","Right-arm Leg Break",Bowler,1
+163,11,"Neil Rock","Right-hand Bat",None,Wicketkeeper,1
+164,11,"Graham Hume","Right-hand Bat","Right-arm Medium Fast",Bowler,1
+165,11,"Ross Adair","Right-hand Bat","Right-arm Medium",Batsman,1
+166,12,"Richie Berrington","Right-hand Bat","Right-arm Medium",Batsman,1
+167,12,"Matthew Cross","Right-hand Bat",None,Wicketkeeper,1
+168,12,"George Munsey","Left-hand Bat","Right-arm Medium",Batsman,1
+169,12,"Michael Jones","Left-hand Bat","Right-arm Medium",Batsman,1
+170,12,"Brandon McMullen","Right-hand Bat","Right-arm Medium Fast",All-Rounder,1
+171,12,"Michael Leask","Right-hand Bat","Right-arm Off Break",All-Rounder,1
+172,12,"Chris Greaves","Right-hand Bat","Right-arm Leg Break",All-Rounder,1
+173,12,"Oli Hairs","Right-hand Bat","Right-arm Off Break",Batsman,1
+174,12,"Brad Currie","Left-hand Bat","Left-arm Medium Fast",Bowler,1
+175,12,"Chris Sole","Right-hand Bat","Right-arm Fast",Bowler,1
+176,12,"Safyaan Sharif","Right-hand Bat","Right-arm Medium Fast",Bowler,1
+177,12,"Brad Wheal","Right-hand Bat","Right-arm Fast-Medium",Bowler,1
+178,12,"Mark Watt","Right-hand Bat","Slow Left-arm Orthodox",Bowler,1
+179,12,"Charlie Cassell","Right-hand Bat","Right-arm Fast-Medium",Bowler,1
+180,12,"Charlie Tear","Right-hand Bat","Right-arm Off Break",Batsman,1
+181,13,"Scott Edwards","Right-hand Bat",None,Wicketkeeper,1
+182,13,"Max O'Dowd","Right-hand Bat","Right-arm Medium",Batsman,1
+183,13,"Michael Levitt","Left-hand Bat","Right-arm Off Break",Batsman,1
+184,13,"Vikramjit Singh","Left-hand Bat","Right-arm Medium",Batsman,1
+185,13,"Bas de Leede","Right-hand Bat","Right-arm Medium Fast",All-Rounder,1
+186,13,"Sybrand Engelbrecht","Right-hand Bat","Right-arm Off Break",All-Rounder,1
+187,13,"Teja Nidamanuru","Right-hand Bat","Right-arm Off Break",All-Rounder,1
+188,13,"Logan van Beek","Right-hand Bat","Right-arm Medium Fast",All-Rounder,1
+189,13,"Tim Pringle","Left-hand Bat","Slow Left-arm Orthodox",All-Rounder,1
+190,13,"Aryan Dutt","Right-hand Bat","Right-arm Off Break",Bowler,1
+191,13,"Paul van Meekeren","Right-hand Bat","Right-arm Fast",Bowler,1
+192,13,"Vivian Kingma","Right-hand Bat","Right-arm Medium Fast",Bowler,1
+193,13,"Kyle Klein","Right-hand Bat","Right-arm Medium Fast",Bowler,1
+195,13,"Ryan Klein","Right-hand Bat","Right-arm Medium Fast",Bowler,1
+332,13,"Daniel Doram","Right-hand Bat","Slow Left-arm Orthodox",Bowler,1
+196,14,"Rohit Paudel","Right-hand Bat","Right-arm Off Break",All-Rounder,1
+197,14,"Aasif Sheikh","Right-hand Bat",None,Wicketkeeper,1
+198,14,"Kushal Bhurtel","Right-hand Bat","Right-arm Off Break",Batsman,1
+199,14,"Kushal Malla","Left-hand Bat","Slow Left-arm Orthodox",All-Rounder,1
+200,14,"Dipendra Singh Airee","Right-hand Bat","Right-arm Medium",All-Rounder,1
+201,14,"Sundeep Jora","Right-hand Bat","Right-arm Medium",Batsman,1
+202,14,"Anil Sah","Right-hand Bat",None,Wicketkeeper,1
+203,14,"Gulshan Jha","Left-hand Bat","Left-arm Medium Fast",All-Rounder,1
+204,14,"Sompal Kami","Right-hand Bat","Right-arm Medium Fast",All-Rounder,1
+205,14,"Karan KC","Right-hand Bat","Right-arm Medium Fast",All-Rounder,1
+206,14,"Lalit Rajbanshi","Left-hand Bat","Slow Left-arm Orthodox",Bowler,1
+207,14,"Sagar Dhakal","Left-hand Bat","Slow Left-arm Orthodox",Bowler,1
+208,14,"Abinash Bohara","Right-hand Bat","Right-arm Medium Fast",Bowler,1
+209,14,"Kamal Singh Airee","Right-hand Bat","Right-arm Medium Fast",Bowler,1
+210,14,"Pratis GC","Left-hand Bat","Left-arm Medium Fast",Bowler,1
+211,15,"Monank Patel","Right-hand Bat",None,Wicketkeeper,1
+212,15,"Aaron Jones","Right-hand Bat","Right-arm Leg Break",All-Rounder,1
+213,15,"Steven Taylor","Left-hand Bat","Right-arm Off Break",All-Rounder,1
+214,15,"Andries Gous","Right-hand Bat",None,Wicketkeeper,1
+215,15,"Nitish Kumar","Left-hand Bat","Right-arm Off Break",Batsman,1
+216,15,"Corey Anderson","Left-hand Bat","Left-arm Medium Fast",All-Rounder,1
+217,15,"Harmeet Singh","Left-hand Bat","Slow Left-arm Orthodox",All-Rounder,1
+218,15,"Shayan Jahangir","Right-hand Bat",None,Wicketkeeper,1
+219,15,"Ali Khan","Right-hand Bat","Right-arm Fast",Bowler,1
+220,15,"Saurabh Netravalkar","Left-hand Bat","Left-arm Medium Fast",Bowler,1
+221,15,"Jessy Singh","Right-hand Bat","Right-arm Medium Fast",Bowler,1
+222,15,"Nosthush Kenjige","Left-hand Bat","Slow Left-arm Orthodox",Bowler,1
+223,15,"Shadley van Schalkwyk","Right-hand Bat","Left-arm Medium Fast",All-Rounder,1
+224,15,"Milind Kumar","Right-hand Bat","Right-arm Off Break",All-Rounder,1
+225,15,"Nisarg Patel","Left-hand Bat","Slow Left-arm Orthodox",All-Rounder,1
+226,16,"Saad Bin Zafar","Left-hand Bat","Slow Left-arm Orthodox",All-Rounder,1
+227,16,"Aaron Johnson","Right-hand Bat","Right-arm Medium",Batsman,1
+228,16,"Navneet Dhaliwal","Right-hand Bat","Right-arm Medium",Batsman,1
+229,16,"Nicholas Kirton","Left-hand Bat","Right-arm Off Break",All-Rounder,1
+230,16,"Shreyas Movva","Right-hand Bat",None,Wicketkeeper,1
+231,16,"Pargat Singh","Right-hand Bat","Right-arm Off Break",All-Rounder,1
+232,16,"Ravinderpal Singh","Right-hand Bat","Right-arm Medium",Batsman,1
+233,16,"Dillon Heyliger","Right-hand Bat","Right-arm Medium Fast",Bowler,1
+234,16,"Jeremy Gordon","Right-hand Bat","Right-arm Fast",Bowler,1
+235,16,"Junaid Siddiqui","Right-hand Bat","Right-arm Off Break",Bowler,1
+236,16,"Kaleem Sana","Left-hand Bat","Left-arm Medium Fast",Bowler,1
+237,16,"Nikhil Dutta","Right-hand Bat","Right-arm Off Break",Bowler,1
+238,16,"Rayan Pathan","Right-hand Bat","Right-arm Medium Fast",All-Rounder,1
+239,16,"Dilpreet Bajwa","Left-hand Bat","Right-arm Off Break",Batsman,1
+240,16,"Parveen Kumar","Right-hand Bat","Right-arm Medium Fast",Bowler,1
+241,17,"Gerhard Erasmus","Right-hand Bat","Right-arm Off Break",All-Rounder,1
+242,17,"David Wiese","Right-hand Bat","Right-arm Medium Fast",All-Rounder,1
+243,17,"JJ Smit","Left-hand Bat","Left-arm Medium Fast",All-Rounder,1
+244,17,"Jan Frylinck","Left-hand Bat","Left-arm Medium Fast",All-Rounder,1
+245,17,"Nikolaas Davin","Right-hand Bat","Right-arm Medium",Batsman,1
+246,17,"Michael van Lingen","Left-hand Bat","Right-arm Medium",Batsman,1
+247,17,"Zane Green","Left-hand Bat",None,Wicketkeeper,1
+248,17,"Malan Kruger","Right-hand Bat",None,Wicketkeeper,1
+249,17,"Ben Shikongo","Right-hand Bat","Right-arm Fast-Medium",Bowler,1
+250,17,"Bernard Scholtz","Left-hand Bat","Slow Left-arm Orthodox",Bowler,1
+251,17,"Tangeni Lungameni","Right-hand Bat","Right-arm Medium Fast",Bowler,1
+252,17,"Ruben Trumpelmann","Left-hand Bat","Left-arm Fast-Medium",Bowler,1
+254,17,"Ben van Lingen","Left-hand Bat","Right-arm Medium",All-Rounder,1
+255,17,"Pikky Ya France","Right-hand Bat","Right-arm Medium",Batsman,1
+256,18,"Aqib Ilyas","Right-hand Bat","Right-arm Off Break",All-Rounder,1
+257,18,"Kashyap Prajapati","Left-hand Bat","Right-arm Off Break",Batsman,1
+258,18,"Pratik Athavale","Right-hand Bat",None,Wicketkeeper,1
+259,18,"Zeeshan Maqsood","Left-hand Bat","Slow Left-arm Orthodox",All-Rounder,1
+260,18,"Ayaan Khan","Left-hand Bat","Slow Left-arm Orthodox",All-Rounder,1
+261,18,"Khalid Kail","Right-hand Bat","Right-arm Medium",Batsman,1
+262,18,"Shoaib Khan","Right-hand Bat","Right-arm Off Break",Batsman,1
+263,18,"Mehran Khan","Right-hand Bat","Right-arm Medium Fast",All-Rounder,1
+264,18,"Bilal Khan","Left-hand Bat","Left-arm Medium Fast",Bowler,1
+265,18,Kaleemullah,"Right-hand Bat","Right-arm Medium Fast",Bowler,1
+266,18,"Fayyaz Butt","Right-hand Bat","Right-arm Medium Fast",Bowler,1
+267,18,"Shakeel Ahmed","Left-hand Bat","Left-arm Medium Fast",Bowler,1
+268,18,"Naseem Khushi","Right-hand Bat",None,Wicketkeeper,1
+269,18,Rafiullah,"Right-hand Bat","Right-arm Medium Fast",All-Rounder,1
+270,18,"Samay Shrivastava","Right-hand Bat","Right-arm Off Break",Bowler,1
+271,19,"Brian Masaba","Right-hand Bat","Right-arm Off Break",All-Rounder,1
+272,19,"Simon Ssesazi","Right-hand Bat","Right-arm Medium",Batsman,1
+273,19,"Roger Mukasa","Right-hand Bat","Right-arm Off Break",Batsman,1
+274,19,"Ronak Patel","Right-hand Bat","Right-arm Medium",Batsman,1
+275,19,"Riazat Ali Shah","Left-hand Bat","Slow Left-arm Orthodox",All-Rounder,1
+276,19,"Robinson Obuya","Right-hand Bat",None,Wicketkeeper,1
+277,19,"Alpesh Ramjani","Left-hand Bat","Slow Left-arm Orthodox",All-Rounder,1
+278,19,"Dinesh Nakrani","Left-hand Bat","Left-arm Medium Fast",All-Rounder,1
+279,19,"Kenneth Waiswa","Right-hand Bat","Right-arm Off Break",All-Rounder,1
+280,19,"Juma Miyagi","Right-hand Bat","Right-arm Medium Fast",Bowler,1
+281,19,"Cosmas Kyewuta","Right-hand Bat","Right-arm Medium Fast",Bowler,1
+282,19,"Bilal Hassan","Right-hand Bat","Right-arm Medium Fast",Bowler,1
+283,19,"Henry Ssenyondo","Left-hand Bat","Slow Left-arm Orthodox",Bowler,1
+284,19,"Frank Nsubuga","Right-hand Bat","Right-arm Off Break",Bowler,1
+285,19,"Ronald Lutaaya","Right-hand Bat","Right-arm Medium",Batsman,1
+286,20,"Assad Vala","Left-hand Bat","Slow Left-arm Orthodox",All-Rounder,1
+287,20,"Tony Ura","Right-hand Bat","Right-arm Medium",Batsman,1
+288,20,"Lega Siaka","Right-hand Bat","Right-arm Medium",Batsman,1
+289,20,"Sese Bau","Right-hand Bat","Right-arm Medium",Batsman,1
+290,20,"Charles Amini","Left-hand Bat","Left-arm Orthodox",All-Rounder,1
+291,20,"Hiri Hiri","Right-hand Bat","Right-arm Medium",Batsman,1
+292,20,"Kiplin Doriga","Right-hand Bat",None,Wicketkeeper,1
+293,20,"Alei Nao","Right-hand Bat","Right-arm Medium Fast",All-Rounder,1
+294,20,"Norman Vanua","Right-hand Bat","Right-arm Medium Fast",All-Rounder,1
+295,20,"Chad Soper","Right-hand Bat","Right-arm Medium Fast",Bowler,1
+296,20,"John Kariko","Right-hand Bat","Right-arm Leg Break",Bowler,1
+297,20,"Kabua Morea","Right-hand Bat","Right-arm Medium Fast",Bowler,1
+298,20,"Nosaina Pokana","Left-hand Bat","Left-arm Medium Fast",Bowler,1
+299,20,"Gaudi Toka","Right-hand Bat","Right-arm Medium Fast",Bowler,1
+300,20,"Jack Gardner","Right-hand Bat","Right-arm Off Break",All-Rounder,1

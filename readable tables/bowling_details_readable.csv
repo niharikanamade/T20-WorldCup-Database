@@ -1,0 +1,121 @@
+bowlingID,matchID,innings_number,bowling_team,bowler,overs,maiden,runs_conceded,wickets,economy
+4,31,1,"South Africa","Keshav Maharaj",4.0,0,24,2,6.00
+1,31,1,"South Africa","Kagiso Rabada",4.0,0,26,2,6.50
+2,31,1,"South Africa","Anrich Nortje",4.0,0,30,2,7.50
+3,31,1,"South Africa","Marco Jansen",4.0,0,32,1,8.00
+5,31,1,"South Africa","Tabraiz Shamsi",4.0,0,34,0,8.50
+6,31,2,India,"Jasprit Bumrah",4.0,1,18,3,4.50
+7,31,2,India,"Arshdeep Singh",4.0,0,20,2,5.00
+8,31,2,India,"Kuldeep Yadav",4.0,0,26,2,6.50
+10,31,2,India,"Axar Patel",4.0,0,29,2,7.25
+9,31,2,India,"Ravindra Jadeja",4.0,0,24,1,6.00
+13,32,1,England,"Jofra Archer",4.0,0,22,3,5.50
+11,32,1,England,"Chris Jordan",4.0,0,25,2,6.25
+15,32,1,England,"Adil Rashid",4.0,0,28,2,7.00
+12,32,1,England,"Mark Wood",4.0,0,29,1,7.25
+14,32,1,England,"Will Jacks",4.0,0,34,1,8.50
+18,32,2,India,"Kuldeep Yadav",4.0,0,23,3,5.75
+16,32,2,India,"Jasprit Bumrah",4.0,0,20,2,5.00
+17,32,2,India,"Arshdeep Singh",4.0,0,24,2,6.00
+19,32,2,India,"Ravindra Jadeja",4.0,0,27,1,6.75
+20,32,2,India,"Axar Patel",4.0,0,30,1,7.50
+22,33,1,"South Africa","Anrich Nortje",4.0,0,18,3,4.50
+21,33,1,"South Africa","Kagiso Rabada",4.0,1,14,2,3.50
+23,33,1,"South Africa","Marco Jansen",4.0,0,16,2,4.00
+25,33,1,"South Africa","Tabraiz Shamsi",2.0,0,8,1,4.00
+24,33,1,"South Africa","Keshav Maharaj",4.0,0,20,1,5.00
+29,33,2,Afghanistan,Naveen-ul-Haq,4.0,0,27,1,6.75
+26,33,2,Afghanistan,"Noor Ahmad",4.0,0,28,1,7.00
+28,33,2,Afghanistan,"Fazalhaq Farooqi",4.0,0,31,1,7.75
+30,33,2,Afghanistan,"Gulbadin Naib",3.0,0,19,0,6.33
+27,33,2,Afghanistan,"Mujeeb Ur Rahman",4.0,0,24,0,6.00
+33,34,1,Afghanistan,"Fazalhaq Farooqi",4.0,0,24,2,6.00
+32,34,1,Afghanistan,"Mujeeb Ur Rahman",4.0,0,30,2,7.50
+35,34,1,Afghanistan,"Gulbadin Naib",4.0,0,28,1,7.00
+31,34,1,Afghanistan,"Noor Ahmad",4.0,0,33,1,8.25
+34,34,1,Afghanistan,Naveen-ul-Haq,4.0,0,35,1,8.75
+36,34,2,India,"Jasprit Bumrah",4.0,1,17,3,4.25
+38,34,2,India,"Kuldeep Yadav",4.0,0,19,3,4.75
+37,34,2,India,"Arshdeep Singh",4.0,0,22,2,5.50
+40,34,2,India,"Axar Patel",4.0,0,21,1,5.25
+39,34,2,India,"Ravindra Jadeja",4.0,0,26,1,6.50
+43,35,1,Bangladesh,"Mahedi Hasan",4.0,0,24,2,6.00
+41,35,1,Bangladesh,"Mustafizur Rahman",4.0,0,29,2,7.25
+45,35,1,Bangladesh,"Jaker Ali",4.0,0,27,1,6.75
+44,35,1,Bangladesh,"Tanzid Hasan",4.0,0,31,1,7.75
+42,35,1,Bangladesh,"Rishad Hossain",4.0,0,33,1,8.25
+48,35,2,Australia,"Adam Zampa",4.0,0,18,3,4.50
+46,35,2,Australia,"Mitchell Starc",4.0,0,21,2,5.25
+47,35,2,Australia,"Josh Hazlewood",4.0,0,25,2,6.25
+50,35,2,Australia,"Mitchell Marsh",4.0,0,24,1,6.00
+49,35,2,Australia,"Pat Cummins",4.0,0,28,1,7.00
+55,36,1,England,"Adil Rashid",4.0,0,26,2,6.50
+53,36,1,England,"Jofra Archer",4.0,0,27,2,6.75
+51,36,1,England,"Chris Jordan",4.0,0,31,2,7.75
+54,36,1,England,"Will Jacks",4.0,0,30,1,7.50
+52,36,1,England,"Mark Wood",4.0,0,34,1,8.50
+59,36,2,"South Africa","Keshav Maharaj",4.0,0,22,3,5.50
+56,36,2,"South Africa","Kagiso Rabada",4.0,0,24,2,6.00
+57,36,2,"South Africa","Anrich Nortje",4.0,0,29,2,7.25
+58,36,2,"South Africa","Marco Jansen",4.0,0,27,1,6.75
+60,36,2,"South Africa","Tabraiz Shamsi",4.0,0,31,1,7.75
+65,37,1,Bangladesh,"Jaker Ali",4.0,0,27,2,6.75
+62,37,1,Bangladesh,"Rishad Hossain",4.0,0,32,2,8.00
+63,37,1,Bangladesh,"Mahedi Hasan",4.0,0,29,1,7.25
+64,37,1,Bangladesh,"Tanzid Hasan",4.0,0,34,1,8.50
+61,37,1,Bangladesh,"Mustafizur Rahman",4.0,0,36,1,9.00
+68,37,2,India,"Kuldeep Yadav",4.0,0,21,3,5.25
+66,37,2,India,"Jasprit Bumrah",4.0,0,19,2,4.75
+67,37,2,India,"Arshdeep Singh",4.0,0,23,2,5.75
+69,37,2,India,"Ravindra Jadeja",4.0,0,26,1,6.50
+70,37,2,India,"Axar Patel",4.0,0,28,1,7.00
+73,38,1,Afghanistan,"Fazalhaq Farooqi",4.0,0,24,3,6.00
+71,38,1,Afghanistan,"Noor Ahmad",4.0,0,31,2,7.75
+75,38,1,Afghanistan,"Gulbadin Naib",4.0,0,26,1,6.50
+72,38,1,Afghanistan,"Mujeeb Ur Rahman",4.0,0,28,1,7.00
+74,38,1,Afghanistan,Naveen-ul-Haq,4.0,0,30,1,7.50
+78,38,2,Australia,"Adam Zampa",4.0,0,19,3,4.75
+76,38,2,Australia,"Mitchell Starc",4.0,0,22,2,5.50
+77,38,2,Australia,"Josh Hazlewood",4.0,0,25,2,6.25
+80,38,2,Australia,"Mitchell Marsh",4.0,0,24,1,6.00
+79,38,2,Australia,"Pat Cummins",4.0,0,28,1,7.00
+81,39,1,Bangladesh,"Mustafizur Rahman",4.0,0,20,3,5.00
+83,39,1,Bangladesh,"Mahedi Hasan",4.0,0,18,2,4.50
+82,39,1,Bangladesh,"Rishad Hossain",4.0,0,22,2,5.50
+85,39,1,Bangladesh,"Jaker Ali",4.0,0,21,1,5.25
+84,39,1,Bangladesh,"Tanzid Hasan",4.0,0,25,1,6.25
+88,39,2,Afghanistan,"Fazalhaq Farooqi",4.0,0,20,3,5.00
+86,39,2,Afghanistan,"Noor Ahmad",4.0,0,19,2,4.75
+87,39,2,Afghanistan,"Mujeeb Ur Rahman",4.0,0,23,2,5.75
+90,39,2,Afghanistan,"Gulbadin Naib",4.0,0,22,1,5.50
+89,39,2,Afghanistan,Naveen-ul-Haq,4.0,0,26,1,6.50
+93,40,1,Australia,"Adam Zampa",4.0,0,32,2,8.00
+92,40,1,Australia,"Josh Hazlewood",4.0,0,41,2,10.25
+94,40,1,Australia,"Pat Cummins",4.0,0,29,1,7.25
+91,40,1,Australia,"Mitchell Starc",4.0,0,36,1,9.00
+95,40,1,Australia,"Mitchell Marsh",4.0,0,38,1,9.50
+96,40,2,India,"Jasprit Bumrah",4.0,0,22,3,5.50
+98,40,2,India,"Kuldeep Yadav",4.0,0,24,2,6.00
+97,40,2,India,"Arshdeep Singh",4.0,0,27,2,6.75
+100,40,2,India,"Axar Patel",4.0,0,28,1,7.00
+99,40,2,India,"Ravindra Jadeja",4.0,0,30,1,7.50
+101,42,1,"West Indies","Romario Shepherd",4.0,0,32,2,8.00
+103,42,1,"West Indies","Andre Russell",4.0,0,34,2,8.50
+105,42,1,"West Indies","Alzarri Joseph",4.0,0,26,1,6.50
+102,42,1,"West Indies","Obed McCoy",4.0,0,28,1,7.00
+104,42,1,"West Indies","Akeal Hosein",4.0,0,30,1,7.50
+106,42,2,"South Africa","Kagiso Rabada",4.0,0,20,3,5.00
+109,42,2,"South Africa","Keshav Maharaj",4.0,0,21,2,5.25
+107,42,2,"South Africa","Anrich Nortje",4.0,0,24,2,6.00
+108,42,2,"South Africa","Marco Jansen",4.0,0,26,1,6.50
+110,42,2,"South Africa","Tabraiz Shamsi",4.0,0,29,1,7.25
+113,44,1,Afghanistan,"Fazalhaq Farooqi",4.0,0,23,3,5.75
+111,44,1,Afghanistan,"Noor Ahmad",4.0,0,27,2,6.75
+115,44,1,Afghanistan,"Gulbadin Naib",4.0,0,25,1,6.25
+114,44,1,Afghanistan,Naveen-ul-Haq,4.0,0,29,1,7.25
+112,44,1,Afghanistan,"Mujeeb Ur Rahman",4.0,0,31,1,7.75
+116,44,2,"South Africa","Kagiso Rabada",4.0,1,16,3,4.00
+119,44,2,"South Africa","Keshav Maharaj",4.0,0,18,2,4.50
+117,44,2,"South Africa","Anrich Nortje",4.0,0,19,2,4.75
+118,44,2,"South Africa","Marco Jansen",4.0,0,21,2,5.25
+120,44,2,"South Africa","Tabraiz Shamsi",4.0,0,24,1,6.00

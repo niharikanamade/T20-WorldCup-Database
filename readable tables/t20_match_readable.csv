@@ -1,0 +1,13 @@
+matchID,team1,team2,match_date,venue,match_type,toss_winner,toss_decision,match_winner,result
+31,India,"South Africa",2024-06-29,"Kensington Oval",T20,"South Africa",Field,India,"India won by 7 runs"
+32,India,England,2024-06-27,"Providence Stadium Guyana",T20,England,Field,India,"India won by 68 runs"
+33,Afghanistan,"South Africa",2024-06-27,"Brian Lara Cricket Academy",T20,"South Africa",Field,"South Africa","South Africa won by 9 wickets"
+34,India,Afghanistan,2024-06-20,"Arnos Vale Ground",T20,Afghanistan,Field,India,"India won by 47 runs"
+35,Australia,Bangladesh,2024-06-20,"Sir Vivian Richards Stadium",T20,Australia,Field,Australia,"Australia won by 28 runs (DLS)"
+36,"South Africa",England,2024-06-21,"Daren Sammy Cricket Ground",T20,England,Field,"South Africa","South Africa won by 7 runs"
+37,India,Bangladesh,2024-06-22,"Sir Vivian Richards Stadium",T20,India,Bat,India,"India won by 50 runs"
+38,Australia,Afghanistan,2024-06-22,"Saint Vincent",T20,Australia,Field,Afghanistan,"Afghanistan won by 21 runs"
+39,Afghanistan,Bangladesh,2024-06-24,"Arnos Vale Ground",T20,Afghanistan,Bat,Afghanistan,"Afghanistan won by 8 runs"
+40,India,Australia,2024-06-24,"Daren Sammy Cricket Ground",T20,India,Bat,India,"India won by 24 runs"
+42,"South Africa","West Indies",2024-06-24,"North Sound Antigua",T20,"South Africa",Bat,"South Africa","South Africa won by 3 wickets"
+44,"South Africa",Afghanistan,2024-06-19,"Antigua Recreation Ground",T20,"South Africa",Field,"South Africa","South Africa won by 5 wickets"
